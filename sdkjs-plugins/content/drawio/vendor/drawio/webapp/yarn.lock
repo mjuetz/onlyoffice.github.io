@@ -275,10 +275,10 @@ electron-log@^4.4.7:
   resolved "https://registry.npmjs.org/electron-log/-/electron-log-4.4.8.tgz"
   integrity sha512-QQ4GvrXO+HkgqqEOYbi+DHL7hj5JM+nHi/j+qrN9zeeXVKy8ZABgbu4CnG+BBqDZ2+tbeq9tUC4DZfIWFU5AZA==
 
-electron-progressbar@^2.0.1:
-  version "2.0.1"
-  resolved "https://registry.npmjs.org/electron-progressbar/-/electron-progressbar-2.0.1.tgz"
-  integrity sha512-+N60GX2q+KH5OvZXxwtjMTZB/1AyxriFd95vOnR3sOfNpvz+30LMsM0a9SnEivZE6N8Djy7F3z4TY8pLs8aopw==
+electron-progressbar@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/electron-progressbar/-/electron-progressbar-2.1.0.tgz#12cc2a652f9b12a408b7a1e623fb4eb62c9fc645"
+  integrity sha512-F2/xVYxmcbmvqXtlD7d1xbq9320ILutVZf0SDpvb55SDreBiCJTH5ctz7/0FD85cW4mxITNh9u8CStZgcEA3Ag==
   dependencies:
     extend "^3.0.1"
 
